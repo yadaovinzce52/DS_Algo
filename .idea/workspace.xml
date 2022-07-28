@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b33223d6-1944-43a1-84ef-222037cc1489" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Python Big O/exercise-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Big O/space-complexity.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Big O/Big O notes" beforeDir="false" afterPath="$PROJECT_DIR$/Python Big O/Big O notes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Big O/big_o.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Big O/big_o.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +34,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/PythonProjects/PythonProjects/Snake Game&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.space-complexity">
     <configuration name="big_o" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DS_Algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -52,8 +56,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="space-complexity" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DS_Algo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Big O" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Big O/space-complexity.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.space-complexity" />
         <item itemvalue="Python.big_o" />
       </list>
     </recent_temporary>
@@ -68,5 +94,16 @@
       <updated>1658973292726</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

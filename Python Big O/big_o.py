@@ -1,5 +1,6 @@
 nemo = ["nemo"]
 everyone = ["dory", "bruce","marlin", "nemo", "gill", "bloat", "nigel", "squirt", "darla", "hank"]
+large_array = []
 
 def find_nemo(array):   # uses array as the input
     for element in array:   # loops through input array

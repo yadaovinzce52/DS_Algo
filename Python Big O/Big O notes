@@ -1,1 +1,27 @@
 Code must be READABLE and SCALABLE
+
+Big O rules:
+    * Rule 1: Worst Case (Always calculate the worst case)
+    * Rule 2: Remove Constants
+    * Rule 3: Different terms for inputs
+    * Rule 4: Drop Non Dominants (e.g. O(n) will dominate O(1) etc.)
+
+Big O progression:
+O(1)
+O(log n)
+O(n)
+O(n log n)
+O(n^2)
+O(2^n)
+O(n!)
+    * worse your complexity is the more it will dominate your time complexity
+
+Pillars of programming
+    * Scalable means speed and memory
+    * Best code is readable but also does not have an expensive speed and memory cost
+
+What causes Space complexity?
+    * variables
+    * DS
+    * Function calls(call stack)
+    * Allocations
