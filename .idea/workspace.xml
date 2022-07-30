@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b33223d6-1944-43a1-84ef-222037cc1489" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python Big O/exercise-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Big O/space-complexity.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Big O/Big O notes" beforeDir="false" afterPath="$PROJECT_DIR$/Python Big O/Big O notes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Big O/big_o.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Big O/big_o.py" afterDir="false" />
-    </list>
+    <list default="true" id="b33223d6-1944-43a1-84ef-222037cc1489" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
