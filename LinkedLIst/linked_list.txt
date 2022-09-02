@@ -1,0 +1,27 @@
+Sample LinkedList
+11 -> 3 -> -23 -> 7
+We will try to append a new node 4 to the list
+
+Appending and removing from tail
+    Appending will be O(1): constant time
+    Removing will take O(N): Linear time
+
+Appending and removing from head
+    Appending will take O(1): constant
+    Removing will also take O(1): constant
+
+Adding item somewhere in the middle of list
+    Adding 4 after 23 node
+        pointer to iterate through list until you get to the 23 node
+        set 4.next to pointer.next
+        set pointer.next to 4
+        This will take O(N): linear
+    Removing 4
+        pointer to iterate until 4
+        set 23 pointer to 7
+        set 4.next to None
+        This will take O(N): Linear
+
+Lookup 23
+    pointer to iterate through list until 23
+    This will take O(N): Linear
