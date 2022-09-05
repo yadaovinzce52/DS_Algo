@@ -27,7 +27,7 @@
 #
 #     backwards = []
 #     for char in sentence[::-1]:
-#         backwards.append(char)
+#         backwards.add(char)
 #     # Time: O(N)
 #     # Space: O(N)
 #
@@ -35,9 +35,12 @@
 #
 #
 # print(reverse('Hi My name is Vinzce'))
-a = b = True
+ingredients = set()
 
-print(a == not b)
-print(a == (not b))
-print(not(a == b))
-print(not a == b)
+ingredients.add('Sauce')
+ingredients.add('Sauce')
+ingredients.add('Tomato')
+ingredients.add('Cheese')
+ingredients.add('Tomato')
+
+print(ingredients)
