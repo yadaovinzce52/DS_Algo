@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b33223d6-1944-43a1-84ef-222037cc1489" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Arrays/q1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/q2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes/pointer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedLIst/LL+vs+Lists+-Big+O.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedLIst/LL-Append.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedLIst/linked_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedLIst/linked_list.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedLIst/ll_impl.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/q1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/q1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +39,7 @@
       <recent name="D:\PythonProjects\DS + Algo\DS_Algo\LinkedLIst" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.q2">
+  <component name="RunManager" selected="Python.q1">
     <configuration name="linked_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DS_Algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,8 +147,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.q2" />
         <item itemvalue="Python.q1" />
+        <item itemvalue="Python.q2" />
         <item itemvalue="Python.ll_impl" />
         <item itemvalue="Python.linked_list" />
         <item itemvalue="Python.pointer" />
