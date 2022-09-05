@@ -1,39 +1,34 @@
 class Node:
-    def __init__(self, value):
-        self.value = value
+    def __init__(self, val):
+        self.val = val
         self.next = None
-        
-
-class LinkedList:
-    def __init__(self, value):
-        new_node = Node(value)
-        self.head = new_node
-        self.tail = new_node
-        self.length = 1
-
-    def print_list(self):
-        temp = self.head
-        while temp is not None:
-            print(temp.value)
-            temp = temp.next
-        
-    def append(self, value):
-        new_node = Node(value)
-        if self.length == 0:
-            self.head = new_node
-            self.tail = new_node
-        else:
-            self.tail.next = new_node
-            self.tail = new_node
-        self.length += 1
 
 
+a = Node('A')
+b = Node('B')
+c = Node('C')
+d = Node('D')
 
-my_linked_list = LinkedList(1)
+a.next = b
+b.next = c
+c.next = d
 
-my_linked_list.append(2)
-
-my_linked_list.print_list()
+# A -> B -> C -> D -> None
 
 
-                                  
+# Iterative
+# def print_list(head):
+#     current = head
+#     while current is not None:
+#         print(current.val)
+#         current = current.next
+
+# Recursive
+def print_list(head):
+    if head is None:
+        return
+    print(head.val)
+    print_list(head.next)
+
+
+print_list(a)
