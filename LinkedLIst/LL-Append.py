@@ -24,11 +24,12 @@ c.next = d
 #         current = current.next
 
 # Recursive
-def print_list(head):
-    if head is None:
-        return
-    print(head.val)
-    print_list(head.next)
+set_num = set()
 
+set_num.add(5)
+set_num.add(6)
+set_num.add(6)
+set_num.add(6)
 
-print_list(a)
+print(set_num)
+print(len(set_num))
