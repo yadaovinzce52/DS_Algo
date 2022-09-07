@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b33223d6-1944-43a1-84ef-222037cc1489" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/LinkedLIst/LL-Append.py" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedLIst/LL-Append.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graphs/graph.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
       <recent name="D:\PythonProjects\DS + Algo\DS_Algo\LinkedLIst" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.LL-Append">
+  <component name="RunManager" selected="Python.graph">
     <configuration name="LL-Append" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DS_Algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -60,7 +61,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="linked_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="graph" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DS_Algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,11 +69,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinkedLIst" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Graphs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinkedLIst/linked_list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graphs/graph.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.graph" />
         <item itemvalue="Python.LL-Append" />
         <item itemvalue="Python.q1" />
         <item itemvalue="Python.q2" />
         <item itemvalue="Python.ll_impl" />
-        <item itemvalue="Python.linked_list" />
       </list>
     </recent_temporary>
   </component>
